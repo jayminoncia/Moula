@@ -5,7 +5,8 @@
 
 ### Code architecture and structure
 
-Developed using repository pattern to create an abstraction layer between the data access and business logic layer. It is a 3-tier application consisting of controller, services, and repositories. The repositories are injected into the services using the built-in dependency injection.
+* Developed using repository pattern to create an abstraction layer between the data access and business logic layer. 
+* 3-tier application consisting of controller, services, and repositories. The repositories are injected into the services using the built-in dependency injection.
 
 ### Test Link
 
