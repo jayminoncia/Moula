@@ -11,3 +11,9 @@ Developed using repository pattern to create an abstraction layer between the da
 
 * https://localhost:44315/transactions/1
 * https://localhost:44315/transactions/2
+
+### Technologies Used
+
+* ASP.NET CORE WEB API
+* EF CORE
+* SQL SERVER
